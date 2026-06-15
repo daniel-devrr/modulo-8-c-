@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/aluno/Documents/Daniel/C++/aula01",
-      "program": "c:/Users/aluno/Documents/Daniel/C++/aula01/build/Debug/outDebug",
+      "cwd": "c:/Users/aluno/Documents/Daniel/C++/.vscode/desafios",
+      "program": "c:/Users/aluno/Documents/Daniel/C++/.vscode/desafios/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
